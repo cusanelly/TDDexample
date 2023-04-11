@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCustomers-API", "CloudCustomers-API\CloudCustomers-API.csproj", "{9AC8C46A-B363-4D98-B9B6-589660EB656A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCustomers-UnitTest", "CloudCustomers-UnitTest\CloudCustomers-UnitTest.csproj", "{F35DDA54-D04B-4AA6-AFEB-CB12D3DFE32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC8C46A-B363-4D98-B9B6-589660EB656A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC8C46A-B363-4D98-B9B6-589660EB656A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC8C46A-B363-4D98-B9B6-589660EB656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC8C46A-B363-4D98-B9B6-589660EB656A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35DDA54-D04B-4AA6-AFEB-CB12D3DFE32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35DDA54-D04B-4AA6-AFEB-CB12D3DFE32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35DDA54-D04B-4AA6-AFEB-CB12D3DFE32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35DDA54-D04B-4AA6-AFEB-CB12D3DFE32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B00FC02-6A48-471C-975D-4F9F745D0C73}
+	EndGlobalSection
+EndGlobal
